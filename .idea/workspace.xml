@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a51792f9-6029-4d61-995a-e2964600d5e5" name="Changes" comment="" />
+    <list default="true" id="a51792f9-6029-4d61-995a-e2964600d5e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,18 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp2\php\php.exe" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -25,7 +39,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Maven.candidat [clean,install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/hp/Desktop/ESPRIT/Cours/cours ESPRIT 2025/MicroService/projetSAE5/microservices/candidat",
     "node.js.detected.package.eslint": "true",
@@ -33,6 +52,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.49885058",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -41,16 +63,17 @@
       <recent name="C:\Users\hp\Desktop\ESPRIT\Cours\cours ESPRIT 2025\MicroService\projetSAE5\documentation" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="projetSAE5" />
+  <component name="RunManager" selected="Spring Boot.CandidatApplication">
+    <configuration name="CandidatApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="candidat" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="esprit.candidat.CandidatApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="projetSAE5" />
-      <option name="filePath" />
+    <configuration name="JobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="job" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="esprit.job.JobApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -59,8 +82,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="jdk-17.0.9-jbr-17.0.9-4caba194b151-51f1b679" />
       </set>
     </attachedChunks>
   </component>
@@ -74,6 +96,9 @@
       <updated>1738674031255</updated>
       <workItem from="1738674033574" duration="2190000" />
       <workItem from="1738676385024" duration="130000" />
+      <workItem from="1738677351758" duration="306000" />
+      <workItem from="1738677680367" duration="431000" />
+      <workItem from="1738678127180" duration="2214000" />
     </task>
     <servers />
   </component>
