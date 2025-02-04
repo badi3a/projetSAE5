@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a51792f9-6029-4d61-995a-e2964600d5e5" name="Changes" comment="" />
+    <list default="true" id="a51792f9-6029-4d61-995a-e2964600d5e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/candidat/src/main/java/esprit/candidat/CandidatRestApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp2\php\php.exe" />
   <component name="ProjectColorInfo">{
@@ -26,6 +33,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/hp/Desktop/ESPRIT/Cours/cours ESPRIT 2025/MicroService/projetSAE5/microservices/candidat",
     "node.js.detected.package.eslint": "true",
@@ -74,6 +83,7 @@
       <updated>1738674031255</updated>
       <workItem from="1738674033574" duration="2190000" />
       <workItem from="1738676385024" duration="130000" />
+      <workItem from="1738676537278" duration="678000" />
     </task>
     <servers />
   </component>
